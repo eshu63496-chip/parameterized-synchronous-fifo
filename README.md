@@ -104,3 +104,11 @@ Vivado reported the following estimated on-chip power:
 ## Author
 
 ECE Undergraduate Student | Interests: VLSI Design, RTL Verification, and Chip Design
+
+## Running the Simulation
+
+1. Open ModelSim Intel FPGA Edition.
+2. Create or open a project containing fifo_16.v and fifo_16_tb.sv.
+3. Compile both files.
+4. Simulate the testbench module.
+5. Inspect the waveform and testbench messages.
